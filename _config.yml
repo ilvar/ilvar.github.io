@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ilvar.github.io
+title: Pomog.app
+tagline: Система взаимопомощи на дорогах
+description: My awesome new site
+paginate: 5
