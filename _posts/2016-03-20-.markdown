@@ -1,0 +1,7 @@
+---
+published: true
+title: Как подключиться к системе?
+layout: post
+categories: [Инструкции]
+---
+Теыт
