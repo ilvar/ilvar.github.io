@@ -3,6 +3,6 @@ published: true
 title: Как подключиться к системе?
 layout: post
 categories: [Инструкции]
-permalink: sign-in
+permalink: howto-sign-in
 ---
-Теыт
+test
